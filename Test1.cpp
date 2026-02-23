@@ -16,5 +16,5 @@ int main(){ //program utama
     cout << "Selamat Berbuka" << endl;
     cout << "UMY Ganteng" << endl;
 
-
+    
 }
