@@ -11,6 +11,7 @@ int main(){ //program utama
     age1 = 26;
 
     cout << "Selamat Berpuasa " << endl;
+    cout << age;
 
 
 }
